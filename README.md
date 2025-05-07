@@ -1,0 +1,1 @@
+The project developed a Password Cracker using SHA256 algorithms to check against common passwords. It aims to reveal compromised hashed passwords and identify weaknesses in password security, scaling up the practicality of uncovering stolen passwords.
